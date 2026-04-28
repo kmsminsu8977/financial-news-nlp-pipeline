@@ -1,0 +1,5 @@
+article_id,symbol,token_count,positive_word_count,negative_word_count,sentiment_score,sentiment_label
+N001,AAA,13,3,0,3,positive
+N002,BBB,16,0,6,-6,negative
+N003,CCC,15,5,0,5,positive
+N004,AAA,13,0,4,-4,negative
